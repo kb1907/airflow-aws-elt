@@ -4,4 +4,4 @@
 
 
 
-<img src="https://airflow.apache.org/images/feature-image.png" width="400" height="400">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="400" height="400">, <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" width="300" height="400">
+<img src="https://airflow.apache.org/images/feature-image.png" width="350" height="400">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="350" height="400">, <img src="https://www.aalpha.net/wp-content/uploads/2019/05/postgre-database-development-india.png" width="300" height="400">
