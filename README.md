@@ -1,7 +1,7 @@
 # AIRFLOW-AWS-ELT
 
 
-- - This repo contains application files for [Airflow is on the Cloud | ELT Pipeline Orchestration With Airflow & AWS](https://pub.towardsai.net/airflow-is-on-the-cloud-elt-pipeline-orchestration-with-airflow-aws-4d4268e5321a) article.
+- This repo contains application files for [Airflow is on the Cloud | ELT Pipeline Orchestration With Airflow & AWS](https://pub.towardsai.net/airflow-is-on-the-cloud-elt-pipeline-orchestration-with-airflow-aws-4d4268e5321a) article.
 
 
 ---------------------------------------------------------------------------------------------------
